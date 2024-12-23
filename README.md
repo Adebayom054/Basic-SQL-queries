@@ -1,4 +1,4 @@
 # Basic-SQL-queries
 
 # Overview
-This assignment demonstrates basic SQL queries that retrieve specific information about students and course enrollment from the created tables.
+This assignment demonstrates basic SQL queries that retrieve specific student information and update course enrollment in the created tables.
